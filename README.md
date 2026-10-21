@@ -4,3 +4,5 @@
 
 - Truyện đang có:
   - [Honkai Impact 3: Tiếng Vọng Từ Không Gian Tưởng Số](https://chronicles.ncatt.io.vn/the-loai/cau-chuyen-hu-cau/tieng-vong-tu-khong-gian-tuong-so/)
+
+> Các chuyện đều có [bản quyền](./LICENSE.md) bởi Arma/dotarma
